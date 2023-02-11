@@ -1,0 +1,23 @@
+.group{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+
+    ._inputbox{
+        padding: 15px;
+        border-bottom-left-radius:10px;
+        border-top-left-radius:10px;
+        background-color: var(--inputs-bg-color);
+        font-weight: 700;
+    }
+
+    ._selectbox{
+        font-size: 13px;
+        padding: 14.8px;
+        border-bottom-right-radius:10px;
+        border-top-right-radius:10px;
+        background-color: var(--inputs-bg-color);
+        font-weight: 700;
+    }
+}

@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Francois+One&display=swap');
+
+
+
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  text-decoration: none;
+  box-sizing: border-box;
+  list-style-type: none;
+}
+
+:root{
+  --bg-color-primary:#404321;
+  --bg-color-secondary:#9ea928;
+  --text-color:#dddddd;
+  --inputs-bg-color:#a4a78c;
+
+}
+
+body{
+  background: #282918;
+  background-image: url(../src/assets/bg-img.png);
+  font-family: 'Francois One', sans-serif;
+}
