@@ -9,6 +9,7 @@ function Navbar() {
         <img src={my_logo} alt="Logo" />
         <p>Sun Currency Converter</p>
       
+      
      </nav>
   )
 }
